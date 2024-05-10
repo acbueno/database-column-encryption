@@ -12,7 +12,7 @@ Este projeto demonstra como implementar a criptografia de colunas em um banco de
 - ![Java](https://img.shields.io/badge/Java-11-blue)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-green)
 - ![Hibernate](https://img.shields.io/badge/Hibernate-5.5.6-yellow)
-- ![H2](https://img.shields.io/badge/PostgreSQL-13.3-blue)
+- ![H2](https://img.shields.io/badge/H2-1.0.1.-blue)
 
 ## Como Usar
 
